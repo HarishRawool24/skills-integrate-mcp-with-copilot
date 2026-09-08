@@ -28,6 +28,21 @@ header h1 {
   margin-bottom: 10px;
 }
 
+.auth-status {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 12px;
+  margin-top: 14px;
+  font-size: 14px;
+}
+
+.secondary-button {
+  padding: 6px 10px;
+  background-color: #3949ab;
+  font-size: 14px;
+}
+
 main {
   display: flex;
   flex-wrap: wrap;
