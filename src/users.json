@@ -1,0 +1,10 @@
+{
+  "teacher": {
+    "role": "teacher",
+    "password": {
+      "salt": "6d657267696e67746f6e2d73616c74",
+      "iterations": 120000,
+      "hash": "d18be91055a1003f777e9e5afc869a84c83be836247dc0118c691cc732f4dab4"
+    }
+  }
+}
